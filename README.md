@@ -1,4 +1,4 @@
-                                 m S I G N A (TM)
+                                 ![m S I G N A (TM)](http://i.imgur.com/fHCsrMt.png?1)
 ===============================================================================
 Copyright (c) 2013-2014 Ciphrex Corporation, All Rights Reserved.
 
