@@ -1,5 +1,5 @@
-                                 [![m S I G N A](http://i.imgur.com/fHCsrMt.png?1)]
-[(http://i.imgur.com/fHCsrMt.png?1)]
+                                 [![m S I G N A (tm)]]
+
 Copyright (c) 2013-2014 Ciphrex Corporation, All Rights Reserved.
 
 mSIGNA is an interactive desktop application for transacting on the bitcoin network
